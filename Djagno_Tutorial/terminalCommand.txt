@@ -1,0 +1,15 @@
+pip3 install pipenv u don't need to run this for this laptop
+
+change into project directory
+pipenv install django
+
+activate virtual environment
+pipenv shell dont do this 
+
+to start new project
+django-admin startproject Neural_Networks_BackEnd 
+
+go into project and replace django-admin with manage.py
+
+run server 
+python3 manage.py runserver (optional port number)
